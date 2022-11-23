@@ -1,0 +1,22 @@
+.App {
+    border: 5px solid #ffc3c3;
+    border-radius: .5em;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    padding: 1em;
+    text-align: center;
+    width: 600px;
+    background-color:black
+    
+  }
+  .main{
+    justify-content: center;
+  }
+
+  .formla{
+    color:rgb(255, 255, 255);
+  }
+
+ 
